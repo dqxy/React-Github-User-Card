@@ -1,0 +1,20 @@
+body{
+    background-color:orange;
+    color:black
+}
+
+.App{
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h1,h2{
+    color:white
+}
+
+.user{
+    font-weight: bolder;
+}
